@@ -1,4 +1,4 @@
-# praktika2ikbo16-17-Болдырев-Григорий
+# praktika2ikbo16-17-Boldyrev-Grigoriy
 
 Класс автор
 
